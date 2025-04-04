@@ -32,5 +32,5 @@ if _name_ == "_main_":
     transcription = transcribe_audio(audio_file_path)
     
     # Print the transcription
-    print("Transcription:")
-    print(transcription)
+    print("Transcription:",transcription)
+    
